@@ -123,7 +123,7 @@ const Preview = () => {
       </table>
       <br></br>
       <div class="bold align_text font">
-        <u>PART-B (5 x 13 = 65)</u>
+        <u>PART-B (5 x 13 = 65 Marks)</u>
       </div>
       <table id="fetch" class="width text_center table-bordered">
         <thead>
@@ -202,7 +202,7 @@ const Preview = () => {
       <br></br>
       <br></br>
       <div class="bold align_text  font">
-        <u>PART-C (1 x 15 = 15)</u>
+        <u>PART-C (1 x 15 = 15 Marks)</u>
       </div>
       <table id="fetch" class="width text_center table-bordered">
         <thead>
