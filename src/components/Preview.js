@@ -56,8 +56,8 @@ const Preview = () => {
         <p class="align_text font">{"Semester " + qpInfo["semester"]}</p>
         <p class="align_text bold font">{qpInfo["subjectCodeTitle"]}</p>
         <p class="align_text font">({"Regulation " + qpInfo["regulation"]})</p>
-        <p class="align_left bold">{"Time: " + qpInfo["time"] + " hrs"}</p>
-        <p class="align_right bold">{"Max.Marks: " + qpInfo["marks"]}</p>
+        <p class="align_left1">{"Time: " + qpInfo["time"] + " hrs"}</p>
+        <p class="align_right1">{"Max.Marks: " + qpInfo["marks"]}</p>
         <div style={{ clear: "both" }}></div>
       </div>
       <div>
@@ -204,6 +204,7 @@ const Preview = () => {
       <div class="bold align_text  font">
         <u>PART-C (1 x 15 = 15 Marks)</u>
       </div>
+      <p class="p_center font">(Q.No.16 is compulsory)</p>
       <table id="fetch" class="width text_center table-bordered">
         <thead>
           <tr className="normal">
